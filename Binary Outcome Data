@@ -1,7 +1,8 @@
+# We need to provide some instructions for the metabin () function. These instructions are known as arguments, which can be one, two, three, or more inputs that the function uses to perform its task. The main arguments of the metabin() function are:
+
 m.acm <- metabin(event.e, n.e, event.c, n.c,
                  data = ma$acm,
                  method = "MH",
                  method.tau = "DL",
                  sm = "RR",
                  studlab = Author)
-
