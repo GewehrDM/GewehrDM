@@ -1,0 +1,7 @@
+m.acm <- metabin(event.e, n.e, event.c, n.c,
+                 data = ma$acm,
+                 method = "MH",
+                 method.tau = "DL",
+                 sm = "RR",
+                 studlab = Author)
+
